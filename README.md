@@ -3,8 +3,6 @@
 ## First time trying github 
 For testing 
 
-![Good](./hello.cpp)
-
 ![Good](./Good-Documentation-Practices.png)
 
 A hands-on repository demonstrating **GitHub** documentation best practices
@@ -15,4 +13,4 @@ A hands-on repository demonstrating **GitHub** documentation best practices
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-This project is licensed under the MIT License - see the ![License](./LICENSE) for more details 
+This project is licensed under the MIT License - see the ![Lisense](./LICENSE) for more details 
