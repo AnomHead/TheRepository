@@ -1,11 +1,12 @@
-# TheRepository
+> # The Repository
 
-## First time trying github 
+> ## First time trying github 
 For testing 
+# ![God](./hello.cpp)
 
-![Good](./Good-Documentation-Practices.png)
-
-A hands-on repository demonstrating **GitHub** documentation best practices
+ ![Good](./Good-Documentation-Practices.png)
+ 
+```A hands-on repository demonstrating **GitHub** documentation best practices```
 
 *Created for the "Mastering GitHub Documentation" workshop*
 
